@@ -2,7 +2,7 @@
 
 A simple and user-friendly web-based counter developed for personal use and hosted with GitHub Pages.
 
-This utility allows you to increment, decrement, reset, and manually set a positive integer value in an intuitive interface.
+This utility allows to increment, decrement, reset, and manually set a positive integer value in an intuitive interface.
 
 > ✅ Developed by **Talha Rehman**
 
@@ -10,8 +10,8 @@ This utility allows you to increment, decrement, reset, and manually set a posit
 
 ## 🔗 Live Demo
 
-You can access the live version here:  
-<!-- **[https://your-username.github.io/talha-utils-counter](https://your-username.github.io/talha-utils-counter)**   -->
+live version here:  
+<!-- **[[https://your-username.github.io/talha-utils-counter](https://talharehmanmtrkt.github.io/trk-utils-counter/)]([https://your-username.github.io/talha-utils-counter](https://talharehmanmtrkt.github.io/trk-utils-counter/))**   -->
 
 ---
 
