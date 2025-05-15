@@ -2,16 +2,13 @@
 
 A simple and user-friendly web-based counter developed for personal use and hosted with GitHub Pages.
 
-This utility allows to increment, decrement, reset, and manually set a positive integer value in an intuitive interface.
-
-> ✅ Developed by **Talha Rehman**
-
 ---
 
 ## 🔗 Live Demo
 
-live version here:  
-<!-- **[[https://your-username.github.io/talha-utils-counter](https://talharehmanmtrkt.github.io/trk-utils-counter/)]([https://your-username.github.io/talha-utils-counter](https://talharehmanmtrkt.github.io/trk-utils-counter/))**   -->
+live version is here:  
+**https://talharehmanmtrkt.github.io/trk-utils-counter/**
+> ✅ Developed by **Talha Rehman** · Incheon National University, South Korea · *May 15, 2025*
 
 ---
 
